@@ -80,9 +80,9 @@ function App() {
       
 
     </button>
-      <div className="App bg-cool-Sage max-w-5xl mx-auto 
+      <div className="App bg-cool-Sage 
       dark:bg-stone-700 dark:text-bgPeach">
-        <div className='max-w-5xl mx-auto'> 
+        <div> 
         <Intro />
         <Portfolio />
         <Timeline />
